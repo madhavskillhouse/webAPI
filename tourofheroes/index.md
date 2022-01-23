@@ -9,7 +9,7 @@ The API will be designed for the following application called Tour of Heroes: ht
 
 As the first step we need to create a new database and define required tables.
 
-1. Create new Database in SQL Server called `TourOfHeroes` and define two tables, Users to save user login credentials and Heroes to save list of Heroes defined by users.
+1. **Create new Database in SQL Server called `TourOfHeroes` and define two tables, Users to save user login credentials and Heroes to save list of Heroes defined by users.**
 
 The SQL Script to create the tables:
 
@@ -47,9 +47,11 @@ ALTER TABLE [dbo].[Heroes] CHECK CONSTRAINT [FK_Heroes_Users]
 GO
 ```
 
-2. Create new Web API project with the all the steps explained in the previous session, name the project as `TourOfHeroes`.
+2. **Create new Web API project with the all the steps explained in the previous session, name the project as `TourOfHeroes`.**
 
-3. Add a new **Class Library** project to the solution to segregate all database related operations, so we can define few classes and methods which does the operation and keep the Web API project simple and minimal. Right click Solution -> Add new item -> Select Class Library **(.NET CORE)**, provide a name `TourOfHeroes.DataAccess`.
+3. **Add a new *Class Library* project to the solution to segregate all database related operations, so we can define few classes and methods which does the operation and keep the Web API project simple and minimal. Right click Solution -> Add new item -> Select Class Library *(.NET CORE)*, provide a name `TourOfHeroes.DataAccess`.**
+
+<br>
 
 ### Talking to the Database
 
