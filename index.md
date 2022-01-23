@@ -43,7 +43,7 @@ ASP.NET Web API is a ready made framework to build a standard HTTP Web API's for
 1. Create a new Project
     <br>
 
-    ![alt](./images/new-web-api.png)
+    ![alt](./images/new-web-api-1.png)
 
     Select ASP.NET Core Web application
 
