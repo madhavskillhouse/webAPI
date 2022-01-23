@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourOfHeroes", "TourOfHeroes\TourOfHeroes.csproj", "{2B5212DE-08A8-4219-8F2B-7C3E166799A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourOfHeroes.DataAccess", "TourOfHeroes.DataAccess\TourOfHeroes.DataAccess.csproj", "{A59D7986-C45A-48ED-89C3-A939CC6958CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B5212DE-08A8-4219-8F2B-7C3E166799A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5212DE-08A8-4219-8F2B-7C3E166799A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5212DE-08A8-4219-8F2B-7C3E166799A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5212DE-08A8-4219-8F2B-7C3E166799A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59D7986-C45A-48ED-89C3-A939CC6958CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59D7986-C45A-48ED-89C3-A939CC6958CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59D7986-C45A-48ED-89C3-A939CC6958CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59D7986-C45A-48ED-89C3-A939CC6958CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A87EC335-EF21-4083-BCCA-0C629ECFEF07}
+	EndGlobalSection
+EndGlobal
