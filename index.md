@@ -53,7 +53,7 @@ ASP.NET Web API is a ready made framework to build a standard HTTP Web API's for
 
 3. Select the template as below and click create.
 
-    ![alt](./images/new-web-api-3.png)
+    ![alt](./images/new-web-api-32.png)
 
 
 4. Run the application
@@ -63,7 +63,7 @@ ASP.NET Web API is a ready made framework to build a standard HTTP Web API's for
 
 5. The application should now open in the default browser.
 
-    ![alt](./images/app-result.png)
+    ![alt](./images/app-results.png)
 
 <br>
 
