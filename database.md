@@ -63,3 +63,5 @@ This way we can do different operation of data using SQL Server Database and we 
 :white_check_mark: Create a table called `Toys` with columns: `Id (int)(identity)(pk)`, `Name (nvarchar(30))`, `Description(nvarchar(500))`, `Price (float)`, `Quantity (int)`.
 
 :white_check_mark: Write different queries to perform **CRUD** operation.
+
+### [NEXT - Tour of Heroes](./tourofheroes/index.md)
